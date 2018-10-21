@@ -1,4 +1,8 @@
-Regular expressions, also referred to as regex or regexp, are used to match
+#Regular Expressions Notes
+Hi! My name is Ryan Hussey and these are my personal notes for freeCodeCamp's Regex lessons.  Full disclosure - some of the example code comes directly from freeCodeCamp - I'm not trying to plagiarize, these are just my notes for keeping track of what I've learned. <br>Feel free to use them.
+
+###Regular expressions, 
+also referred to as regex or regexp, are used to match
 parts of strings.  It is useful to test your regex.
 One method to test is .test()
 In this example, we test a regex that should match a word in a string
