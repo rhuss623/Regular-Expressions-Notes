@@ -2,7 +2,7 @@
 Hi! My name is Ryan Hussey and these are my personal notes for freeCodeCamp's Regex lessons.  Full disclosure - some of the example code comes directly from freeCodeCamp - I'm not trying to plagiarize, these are just my notes for keeping track of what I've learned. <br>Feel free to use them.
 
 ### Regular expressions, 
-also referred to as regex or regexp, are used to specific alphanumeric or non-alphanumeric characters.
+also referred to as regex or regexp, are used to match specific alphanumeric or non-alphanumeric characters.
 In this example, we test a regex that should match a word in a string
 (we will try to find the word "Sand" using /Sand/) with the .test() method. .test() returns a boolean.  If the regex matches a piece of the string that is being tested,<span style=color:red> .test()</span> will return "true."
 ```JavaScript
